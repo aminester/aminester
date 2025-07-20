@@ -13,7 +13,7 @@
 <br>
 
 <!-- About Section -->
-<img align="right" width="350" src="https://github.com/aminester/aminester/blob/main/assets/code.gif?raw=true" alt="coding"/>
+<img align="right" width="350" src="https://github.com/aminester/aminester/blob/main/assets/coding.gif?raw=true" alt="coding"/>
 
 ### Work Experience
 
