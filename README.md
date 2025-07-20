@@ -1,6 +1,6 @@
 <!-- Dynamic Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:2b213a,100:1a1b27&text=Amine%20Nazih&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20Engineer%20%40%20Expedia%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:2b213a,100:1a1b27&text=Amine%20Nazih&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20Engineering%20%Intern%20%40%20Expedia%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=55" />
 </div>
 
 <!-- Quick Stats Bar -->
